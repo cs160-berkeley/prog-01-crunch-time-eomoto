@@ -1,6 +1,6 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+My app is called Calories Converter. It allows the user to convert an amount of a specific type of exercise into calories and then displays the calories and also the amount of other exercsies necessary to reach the same amount of calories burned. The app is able to be viewed in portrait or landscape and retain functionality in both views. 
 
 ## Authors
 
