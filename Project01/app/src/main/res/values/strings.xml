@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calories Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="pushup">Pushup</string>
+    <string name="situp">Situp</string>
+    <string name="jumpingjacks">Jumping Jacks</string>
+    <string name="jogging">Jogging</string>
+    <string name="reps">Reps</string>
+    <string name="minutes">Minutes</string>
+    <string name="title">Calories Converter</string>
+    <string name="amount">Amount</string>
+    <string name="button">Calculate</string>
+    <string name="exercise_type">Exercise Type</string>
+    <string name="calories">Calories</string>
+    <string name="instructions">Pick an exercise above and in the box below input the amount of minutes/reps:</string>
+</resources>
