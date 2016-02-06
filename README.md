@@ -8,11 +8,11 @@ Ellen Omoto ([ellen_omoto@berkeley.edu](mailto:ellen_omoto@berkeley.edu))
 
 ## Demo Video
 
-See [Project 01 Demo Video] (https://link_to_your_video)
+See [Project 01 Demo Video] (https://youtu.be/HjV5Qgu4I04)
 
 ## Screenshots
 
-<img src="screenshots/screenshot.png" height="400" alt="Screenshot"/>
+<img src="screenshots/prog1_1.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
